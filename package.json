@@ -1,0 +1,15 @@
+{
+  "name": "chatjs",
+  "version": "1.0.0",
+  "description": "simple text sharing web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  }
+}
